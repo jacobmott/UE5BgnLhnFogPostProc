@@ -3,6 +3,16 @@
 	"EngineAssociation": "{B514A9D0-4D27-BE0F-652E-668E920F30B4}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE5BgnLhnFogPostProc",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
