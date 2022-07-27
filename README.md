@@ -15,8 +15,9 @@ https://www.udemy.com/course/ue5lighting/
 
 https://www.youtube.com/watch?v=4g1YMw0inGo
 
-
 ![NightTime](https://user-images.githubusercontent.com/3318539/181165836-c8ca7d44-aed6-4cd7-8a75-e65b69362f9a.gif)
+
+![image](https://user-images.githubusercontent.com/3318539/181165917-5b545156-0702-4343-85e6-dc1575e8b2bd.png)
 
 
 ![image](https://user-images.githubusercontent.com/3318539/181163958-a75d8721-9842-46e9-9424-71661e1d887e.png)
