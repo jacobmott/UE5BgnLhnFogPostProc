@@ -13,7 +13,7 @@ https://www.udemy.com/course/ue5lighting/
 
 # NightTime Demo/Flythrough video
 
-https://www.youtube.com/watch?v=4g1YMw0inGo
+https://youtu.be/4g1YMw0inGo
 
 ![NightTime](https://user-images.githubusercontent.com/3318539/181165836-c8ca7d44-aed6-4cd7-8a75-e65b69362f9a.gif)
 
@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=4g1YMw0inGo
 
 # DreamSunset Demo/Flythrough video
 
-https://www.youtube.com/watch?v=Dk_Eds9Jx4o&feature=youtu.be
+https://youtu.be/Dk_Eds9Jx4o
 
 ![DreamySunset1](https://user-images.githubusercontent.com/3318539/181162781-d8ab6254-b919-4faa-ad61-0baa30fb7029.gif)
 
