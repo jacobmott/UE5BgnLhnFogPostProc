@@ -49,3 +49,28 @@ https://youtu.be/Dk_Eds9Jx4o
 
 
 
+## AWS S3 Screenshots And videos folders (Syncing/Pull/Push to)
+
+<details>
+The Content folder is stored in s3 bucket
+
+Pull down from bucket
+  
+```
+  aws s3 cp --recursive s3://<bucket>/UE5BgnLhnFogPostProc/Content UE5BgnLhnFogPostProc/Content 
+  aws s3 cp --recursive s3://<bucket>/UE5BgnLhnFogPostProc/Screenshots UE5BgnLhnFogPostProc/Screenshots 
+```
+
+Push to bucket
+```
+  aws s3 cp --recursive UE5BgnLhnFogPostProc/Content s3://<bucket>/UE5BgnLhnFogPostProc/Content
+  aws s3 cp --recursive UE5BgnLhnFogPostProc/Screenshots s3://<bucket>/UE5BgnLhnFogPostProc/Screenshots
+```
+
+Or just do a sync
+```
+  aws s3 sync UE5BgnLhnFogPostProc/Content s3://<bucket>/UE5BgnLhnFogPostProc/Content --delete  
+  aws s3 sync UE5BgnLhnFogPostProc/Screenshots s3://<bucket>/UE5BgnLhnFogPostProc/Screenshots --delete  
+
+```
+</details>
